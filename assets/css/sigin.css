@@ -1,0 +1,63 @@
+.currency-signin{
+  background: none;
+  box-shadow: none;
+  color: #fff;
+}
+form.signin{
+  background: #fff;
+  opacity: 0.8;
+  margin: 0;
+  border-radius: 10px;
+  padding: 10px 25px;
+  position: absolute;
+  z-index: 98988934;
+  right: 360px;
+  box-shadow: 0px 9px 21px -8px rgba(0,0,0,0.75);
+}
+form.signin h3{
+  display: block;
+  text-align: center;
+  font-size: 30px;
+  color: #2f2f35;
+}
+form.signin span{
+  display: block;
+  padding: 16px 0;
+}
+.sign-btn{
+  width: 100%;
+  border-radius: 50px;
+  margin-top: 20px;
+}
+form.signin input{
+  width: 300px;
+  padding: 5px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  
+}
+.modal-dialog{
+  width: 400px;
+}
+h5.modal-title{
+  display: block;
+  text-align: center;
+  font-size: 30px;
+}
+.modal-body label{
+  display: block;
+  padding: 10px 0;
+}
+.modal-body label input{
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+}
+.modal-body span{
+  display: inline-block;
+  margin: 10px 0;
+}
+.modal-body span.forgot a{
+  color: #cc6666;
+}
